@@ -1,0 +1,15 @@
+{
+  "name": "simple-websocket-chat",
+  "version": "1.0.0",
+  "description": "Simple 💬 Real-time Chat using WebSockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["websocket", "chat", "real-time"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
