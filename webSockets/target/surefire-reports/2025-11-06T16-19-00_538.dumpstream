@@ -1,0 +1,5 @@
+# Created at 2025-11-06T16:19:01.081
+Boot Manifest-JAR contains absolute paths in classpath 'd:\Java_Projects\webSockets\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
